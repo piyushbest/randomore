@@ -12,5 +12,5 @@ I will make video later
 
 # .phar
 
-poggit:- wait one min
+poggit:- https://poggit.pmmp.io/p/RandomOre/2.0.0#
 
