@@ -1,6 +1,6 @@
 <?php
 
-namespace RaindomOre;
+namespace piyushbest/RandomOre;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\command\Command;
