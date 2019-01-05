@@ -12,5 +12,5 @@ I will make video later
 
 # .phar
 
-poggit:- https://poggit.pmmp.io/p/RandomOre/2.0.0#
+poggit:- https://poggit.pmmp.io/ci/piyushbest/randomore/raindomore
 
